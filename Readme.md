@@ -8,7 +8,9 @@ query.sql is the mysql file to make the database and table required. There are 4
 	message: stores the topic, email, message for the user  
 
 ##PHP files
+
 index.php  
+
 	(Publisher)publisher.php  
 		publisher2.php  
 			(send new message)pub.php  
