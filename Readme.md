@@ -1,7 +1,7 @@
 # PubSub pattern implementation
 
 ##SQL files
-query.sql is the mysql file to make the database and table required. There are 4 tables:
+query.sql is the mysql file to make the database and table required. There are 4 tables:  
 	publisher: stores the name of the publisher
 	topic: stores the name and the topic created by the publisher
 	subs: stores the topic and the users which have subscribed to the corresponding topic
